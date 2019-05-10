@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tpl-tutorial", "tpl-tutorial\tpl-tutorial.csproj", "{9AF53CDE-AE94-48E3-9BB3-38EA857EB683}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tpl-tutorial.tests", "tpl-tutorial.tests\tpl-tutorial.tests.csproj", "{F17A803F-7CAF-4590-AEC3-DE31E78CEC43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF53CDE-AE94-48E3-9BB3-38EA857EB683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF53CDE-AE94-48E3-9BB3-38EA857EB683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF53CDE-AE94-48E3-9BB3-38EA857EB683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF53CDE-AE94-48E3-9BB3-38EA857EB683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17A803F-7CAF-4590-AEC3-DE31E78CEC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17A803F-7CAF-4590-AEC3-DE31E78CEC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17A803F-7CAF-4590-AEC3-DE31E78CEC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17A803F-7CAF-4590-AEC3-DE31E78CEC43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C9C4321-331C-477C-B44B-1ACE04DCEF8F}
+	EndGlobalSection
+EndGlobal
